@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import HeroBanner from "@/components/banner/HeroBanner";
 import PopularKitsSection from "@/components/home/PopularKitsSection";
+import CliniciansSection from "@/components/home/CliniciansSection";
 import {
     DoctorSection,
     FaqSection,
@@ -111,6 +112,7 @@ export default async function Home() {
                     <DoctorSection />
                 </div>
                 {MENU_VISIBILITY_SETTINGS.SHOW_HOME_HEALTH_TEST_KITS_SECTION ? <PhysicalProductsSlider /> : null}
+                <CliniciansSection />
                 <FaqSection />
             </div>
         </>

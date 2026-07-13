@@ -525,6 +525,17 @@ export const MOCK_DOCTORS = [
         registration_number: "412789",
         languages_spoken: "English, Hindi",
     },
+    {
+        doctor_picture: null,
+        doctor_name: "Dr. Liam Byrne",
+        featured: 1,
+        display_order: 4,
+        speciality: "Clinical Pathology",
+        year_of_experience: 14,
+        degree: "MB BCh BAO, FRCPath",
+        registration_number: "401567",
+        languages_spoken: "English",
+    },
 ];
 
 /* ------------------------------------------------------------------ */
