@@ -69,7 +69,7 @@ jobs:
             docker run -d \
               --restart unless-stopped \
               --name nextgen-ecom \
-              -p 127.0.0.1:6000:3000 \
+              -p 127.0.0.1:6060:3000 \
               $IMAGE
 
             sleep 5
