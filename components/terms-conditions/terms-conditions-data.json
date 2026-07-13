@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "02 Feb 2026",
+  "items": [
+    {
+      "question": "Services Description & Scope",
+      "answer": "NexGen Healthcare operates an online store selling at-home blood and urine testing kits to customers in Ireland. Each kit includes a CE-marked sample collection device, instructions, and a prepaid return envelope. Returned samples are analysed by an INAB-accredited partner laboratory and results are reviewed by IMC-registered doctors before being released to your secure online account."
+    },
+    {
+      "question": "Ordering & Account",
+      "answer": "You must be at least 18 years old to purchase a testing kit. When ordering you agree to provide accurate, complete, and current information, including a valid delivery address and contact email. You are responsible for maintaining the confidentiality of your account credentials and for all activity that occurs under your account."
+    },
+    {
+      "question": "Pricing & Payment",
+      "answer": "All prices are displayed in euro (€) and include VAT where applicable. Payment is taken at checkout through our secure payment provider. Promotional discounts apply only during the stated promotion period and cannot be applied retrospectively. We reserve the right to correct obvious pricing errors before dispatch."
+    },
+    {
+      "question": "Delivery",
+      "answer": "Kits are dispatched the same working day where ordered before the daily cut-off, in plain unbranded packaging, and typically arrive within 1-2 working days anywhere in Ireland. Delivery timelines are estimates and may be affected by courier delays outside our control. Risk in the kit passes to you on delivery."
+    },
+    {
+      "question": "Using Your Testing Kit",
+      "answer": "You must follow the instructions supplied with your kit, register your kit activation code online before returning your sample, and post the sample on the day of collection using the prepaid envelope. Samples that are unregistered, insufficient, expired, or damaged in transit may not be analysable; in that case we will offer one free replacement kit."
+    },
+    {
+      "question": "Results Are Not a Diagnosis",
+      "answer": "Test results are provided for informational health screening and do not constitute a medical diagnosis or a substitute for advice from your own GP. A reviewing doctor will flag results that need attention, but you remain responsible for seeking follow-up care. Never delay seeking medical advice, and contact emergency services immediately for urgent symptoms."
+    },
+    {
+      "question": "Cancellations & Refunds",
+      "answer": "Because testing kits are sealed hygiene products, your statutory 14-day right of withdrawal applies only while the kit remains unopened and unused. Full details, including how faulty or damaged kits are handled, are set out in our Refund Policy."
+    },
+    {
+      "question": "Intellectual Property",
+      "answer": "All content on this website — including text, product descriptions, images, logos, and software — is owned by or licensed to NexGen Healthcare and protected by intellectual property law. You may not reproduce, distribute, or create derivative works from our content without prior written consent."
+    },
+    {
+      "question": "Limitation of Liability",
+      "answer": "Nothing in these terms limits liability for death or personal injury caused by negligence or for fraud. Subject to that, our total liability arising from any order is limited to the amount you paid for that order, and we are not liable for indirect or consequential losses, including losses caused by decisions made on the basis of screening results without appropriate medical follow-up."
+    },
+    {
+      "question": "Changes to These Terms",
+      "answer": "We may update these terms from time to time to reflect changes in our products, legal requirements, or business practices. The version published on this page at the time you place your order is the version that applies to that order."
+    },
+    {
+      "question": "Governing Law",
+      "answer": "These terms are governed by the laws of Ireland and the courts of Ireland have exclusive jurisdiction over any dispute arising from them. If any provision is found unenforceable, the remaining provisions continue in full force."
+    }
+  ]
+}

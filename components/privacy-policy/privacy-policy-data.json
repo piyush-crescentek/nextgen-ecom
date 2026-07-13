@@ -1,0 +1,49 @@
+{
+  "lastUpdated": "02 Feb 2026",
+  "items": [
+    {
+      "question": "Overview",
+      "answer": "NexGen Healthcare is an online store for at-home blood testing kits, delivering CE-marked sample collection kits across Ireland with laboratory analysis and doctor-reviewed results. We are committed to protecting your privacy in accordance with the EU General Data Protection Regulation (GDPR) and the Data Protection Act 2018. This policy explains how personal information is collected, used, disclosed, stored, and accessed when you browse our store, order a testing kit, or receive results."
+    },
+    {
+      "question": "Agreement",
+      "answer": "By using the NexGen Healthcare website, creating an account, or ordering a testing kit, you consent to the collection, use, storage, and disclosure of your information in accordance with this Privacy Policy and applicable law. Consent may be provided in writing, electronically at checkout, or implied through continued use of our services."
+    },
+    {
+      "question": "Types of Data We Collect",
+      "answer": "We collect account details (name, email, phone number), delivery and billing addresses, order history, payment confirmation data (card details are processed by our payment provider and never stored on our servers), device and browsing information, correspondence history, and cookie data. When you register and return a testing kit, we also process your kit activation code, sample collection date, and the biomarker results produced by our partner laboratory."
+    },
+    {
+      "question": "Health Data & Test Results",
+      "answer": "Your test results are special category (health) data under GDPR. Results are processed only to deliver the service you purchased: laboratory analysis, doctor review, and secure delivery of your report to your online account. Results are encrypted in transit and at rest, are never used for marketing, and are never sold or shared with employers, insurers, or advertisers."
+    },
+    {
+      "question": "How We Use Your Information",
+      "answer": "We use personal data to process and deliver kit orders, register returned samples to the correct customer, provide customer support, notify you when results are ready, process payments and refunds, prevent fraud, comply with legal and regulatory obligations, and improve our website and product range. Order and dispatch emails are transactional; marketing emails are sent only with your consent and every message includes an unsubscribe link."
+    },
+    {
+      "question": "Sharing With Laboratories & Couriers",
+      "answer": "To fulfil your order we share limited data with trusted processors: our INAB-accredited partner laboratory receives your kit activation code and sample (pseudonymised where possible), our reviewing doctors receive your results for clinical sign-off, and our courier partners receive your name and delivery address. All processors are bound by data processing agreements and may not use your data for their own purposes."
+    },
+    {
+      "question": "Cookies",
+      "answer": "Our website uses essential cookies to keep your cart and login session working, and optional analytics cookies to understand how visitors use the store. You can manage optional cookies through your browser settings at any time; essential cookies cannot be disabled as the shop would not function without them."
+    },
+    {
+      "question": "Data Retention",
+      "answer": "Order and invoice records are retained for the period required by Irish tax law. Test results are retained in your secure account so you can track biomarkers over time; you may request deletion of your results at any time once any active order is complete. Inactive accounts and their data are reviewed and erased in line with our retention schedule."
+    },
+    {
+      "question": "Your Rights",
+      "answer": "Under GDPR you have the right to access, rectify, erase, restrict, and port your personal data, and to object to processing based on legitimate interests. To exercise any right, contact us at info@nexgenhealthcare.ie. You also have the right to lodge a complaint with the Data Protection Commission (dataprotection.ie)."
+    },
+    {
+      "question": "Security",
+      "answer": "We use TLS encryption on all pages, encrypt health data at rest, restrict internal access on a need-to-know basis, and regularly review our security controls. No online system is completely secure, so please keep your account password confidential and contact us immediately if you suspect unauthorised access."
+    },
+    {
+      "question": "Contact",
+      "answer": "For any privacy questions or requests, contact NexGen Healthcare at info@nexgenhealthcare.ie or by post at Ludgate Hub, Old Bakery, Townshend Street, Skibbereen, Co. Cork, P81T324, Ireland."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "site": {
+    "title": "NexGen Healthcare",
+    "url": "https://nexgenhealthcare.ie",
+    "exportedAt": "Mon, 04 May 2026 11:56:35 +0000",
+    "totalPosts": 6
+  },
+  "categoriesWithBlogs": [
+    {
+      "category": {
+        "slug": "blood-testing-blogs",
+        "name": "Blood Testing Blogs"
+      },
+      "count": 6,
+      "items": [
+        {
+          "id": 90001,
+          "title": "How At-Home Blood Testing Kits Work: From Finger-Prick to Doctor-Reviewed Results",
+          "slug": "how-at-home-blood-testing-kits-work",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/how-at-home-blood-testing-kits-work/",
+          "date": "2026-04-20 09:15:00",
+          "modified": "2026-04-22 10:05:00",
+          "pubDate": "Mon, 20 Apr 2026 09:15:00 +0000",
+          "author": "NexGen Health Team",
+          "excerpt": "At-home blood testing has made laboratory-grade health screening accessible to everyone in Ireland. Here is exactly what happens from the moment you order a kit to the moment a doctor-reviewed report lands in your secure account…",
+          "content": "At-home blood testing has made laboratory-grade health screening accessible to everyone in Ireland. No clinic queues, no appointment needed — just a small kit that arrives in plain packaging and a prepaid envelope to send your sample back. Here is exactly what happens at every step.\n<h2>Step 1: Order Your Kit Online</h2>\nBrowse our range of testing kits — from single-marker checks like Vitamin D to comprehensive wellness panels — and order online in a couple of minutes. Kits ordered before the daily cut-off are dispatched the same working day in discreet, unbranded packaging and usually arrive within 1-2 working days anywhere in Ireland.\n<h2>Step 2: Register and Collect Your Sample</h2>\nEvery kit contains a unique activation code. Registering it online links your sample to your secure account — this is essential, so do it before anything else. Then collect your sample:\n<ul>\n \t<li><strong>Wash your hands in warm water</strong> to improve blood flow to your fingertips.</li>\n \t<li><strong>Use the provided lancet</strong> to make a small prick on the side of a fingertip.</li>\n \t<li><strong>Fill the collection tube</strong> to the marked line — it usually takes about five minutes.</li>\n \t<li><strong>Post the sample the same day</strong> using the prepaid tracked envelope.</li>\n</ul>\nMorning collection before 10am is best for most biomarkers, and same-day posting keeps your sample fresh for analysis.\n<h2>Step 3: Laboratory Analysis</h2>\nYour sample is analysed in an INAB-accredited Irish laboratory using the same clinical analysers that hospitals rely on. Most panels are processed within 1-3 working days of the lab receiving your sample.\n<h2>Step 4: Doctor Review and Results</h2>\nBefore results are released, an IMC-registered doctor reviews your report. Values outside the normal range are flagged with clear guidance, and if anything needs urgent attention our clinical team will contact you directly. Your full report is then delivered to your secure online account — never by unencrypted email.\n<h3>Is an At-Home Test as Accurate as a Clinic Test?</h3>\nThe laboratory analysis is identical — the same accredited labs, the same machines. The main variable is sample quality, which is why following the collection instructions matters. If a sample cannot be analysed, we send a free replacement kit.\n<h3>Final Thoughts</h3>\nAt-home testing puts routine health screening in your control. Browse our full range of blood testing kits to find the panel that fits your health goals — and remember, screening results support your health decisions but never replace advice from your own GP.",
+          "featuredImage": "/images/photo-kits1.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "at-home-testing", "name": "At-Home Testing" },
+            { "slug": "how-it-works", "name": "How It Works" }
+          ]
+        },
+        {
+          "id": 90002,
+          "title": "Vitamin D Deficiency in Ireland: Symptoms, Causes, and When to Test",
+          "slug": "vitamin-d-deficiency-ireland-symptoms-and-testing",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/vitamin-d-deficiency-ireland-symptoms-and-testing/",
+          "date": "2026-04-12 08:30:00",
+          "modified": "2026-04-14 11:20:00",
+          "pubDate": "Sun, 12 Apr 2026 08:30:00 +0000",
+          "author": "Dr. Aoife Murphy",
+          "excerpt": "Up to one in five Irish adults has low vitamin D during winter months. Because the symptoms are vague — tiredness, low mood, aching muscles — deficiency often goes unnoticed for years. Here is what to watch for and when a blood test makes sense…",
+          "content": "Ireland's northern latitude means our skin produces little vitamin D from sunlight between October and March. Studies suggest up to one in five Irish adults is deficient during winter, and because the symptoms are vague, low vitamin D often goes unnoticed for years.\n<h2>Common Signs of Low Vitamin D</h2>\n<ul>\n \t<li><strong>Persistent tiredness</strong> that sleep doesn't fix</li>\n \t<li><strong>Low mood</strong>, particularly in the darker months</li>\n \t<li><strong>Muscle aches and weakness</strong>, especially in the legs</li>\n \t<li><strong>Frequent colds and infections</strong></li>\n \t<li><strong>Bone pain</strong> or slow recovery from fractures</li>\n</ul>\nNone of these symptoms is specific to vitamin D, which is exactly why testing is useful: a simple finger-prick measurement of 25-hydroxyvitamin D gives you a definitive answer.\n<h2>Who Is Most at Risk?</h2>\nDeficiency is more common in people who spend most of the day indoors, office and shift workers, people with darker skin tones, adults over 65, and anyone who covers their skin outdoors. If you fall into one of these groups, an annual check — ideally in late winter — is a sensible habit.\n<h2>What Your Result Means</h2>\nMost Irish laboratories classify results as deficient (below 30 nmol/L), insufficient (30-50 nmol/L), or sufficient (above 50 nmol/L). With our Vitamin D Test Kit, an IMC-registered doctor reviews your result and gives practical guidance on supplementation if your level is low.\n<h2>Testing and Retesting</h2>\nIf you start a supplement after a low result, it takes roughly 8-12 weeks for blood levels to stabilise, so a follow-up test after three months shows whether your dose is working. Tracking results over time in your NexGen account makes this easy.\n<h3>Final Thoughts</h3>\nVitamin D deficiency is one of the most common — and most fixable — nutritional issues in Ireland. A five-minute at-home test removes the guesswork. If your symptoms are severe or persistent, always follow up with your own GP.",
+          "featuredImage": "/images/photo-kits2.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "vitamin-d", "name": "Vitamin D" },
+            { "slug": "vitamins-minerals", "name": "Vitamins & Minerals" }
+          ]
+        },
+        {
+          "id": 90003,
+          "title": "Always Tired? 5 Blood Tests That Help Explain Constant Fatigue",
+          "slug": "blood-tests-for-constant-fatigue",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/blood-tests-for-constant-fatigue/",
+          "date": "2026-03-30 10:00:00",
+          "modified": "2026-04-01 09:45:00",
+          "pubDate": "Mon, 30 Mar 2026 10:00:00 +0000",
+          "author": "NexGen Health Team",
+          "excerpt": "Fatigue is one of the most common reasons people order an at-home blood test — and one of the hardest symptoms to pin down. These five biomarker checks cover the most frequent, and most treatable, causes of constant tiredness…",
+          "content": "Fatigue is one of the most common reasons people order an at-home blood test — and one of the hardest symptoms to pin down, because almost anything can cause it. The good news: a handful of blood markers explain a large share of persistent tiredness, and all of them can be checked from home.\n<h2>1. Ferritin and Iron Profile</h2>\nLow iron is the classic cause of fatigue, particularly in women. An iron profile measures ferritin (your iron stores), serum iron, and transferrin saturation. Low ferritin can leave you exhausted long before full anaemia develops.\n<h2>2. Vitamin B12</h2>\nB12 is essential for red blood cells and nerve function. Deficiency causes tiredness, brain fog, pins and needles, and low mood. It is more common in vegetarians, vegans, people over 60, and anyone taking acid-reducing medication long-term.\n<h2>3. Thyroid Function (TSH, FT4)</h2>\nAn underactive thyroid slows everything down — energy, metabolism, mood, even heart rate. A thyroid function test measures TSH and free T4 to show whether your thyroid is keeping pace.\n<h2>4. Vitamin D</h2>\nLow vitamin D is endemic in Ireland during winter and is strongly linked with tiredness and muscle weakness. It is one of the simplest deficiencies to correct once identified.\n<h2>5. HbA1c (Blood Sugar)</h2>\nConsistently high blood sugar — even before diabetes develops — causes energy crashes and thirst. HbA1c reflects your average blood sugar over the past three months, making it far more informative than a single glucose reading.\n<h2>Test Together or One at a Time?</h2>\nIf your fatigue is new and you have a likely suspect (for example, a vegan diet suggesting B12), start with a single test. If you have no idea where to begin, a combined wellness panel checks all of these markers from one sample and usually costs less than testing separately.\n<h3>When to See a Doctor Instead</h3>\nScreening is for persistent, unexplained tiredness. If fatigue comes with red-flag symptoms — unexplained weight loss, night sweats, chest pain, or breathlessness — see your GP promptly rather than testing at home first.",
+          "featuredImage": "/images/photo-kits3.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "fatigue", "name": "Fatigue & Energy" },
+            { "slug": "vitamin-b12", "name": "Vitamin B12" },
+            { "slug": "iron", "name": "Iron" }
+          ]
+        },
+        {
+          "id": 90004,
+          "title": "Understanding Your Cholesterol Results: HDL, LDL and Triglycerides Explained",
+          "slug": "understanding-cholesterol-results-hdl-ldl-triglycerides",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/understanding-cholesterol-results-hdl-ldl-triglycerides/",
+          "date": "2026-03-18 09:00:00",
+          "modified": "2026-03-19 14:30:00",
+          "pubDate": "Wed, 18 Mar 2026 09:00:00 +0000",
+          "author": "Dr. Sean O'Brien",
+          "excerpt": "A cholesterol report can look like alphabet soup — HDL, LDL, TC, TG, ratios. This plain-English guide explains what each number means, what targets Irish guidelines suggest, and which lifestyle changes actually move the needle…",
+          "content": "Heart disease remains Ireland's leading cause of death, and cholesterol is one of its most important modifiable risk factors. Yet a lipid report can look like alphabet soup. Here is what each number on your cholesterol profile actually means.\n<h2>Total Cholesterol (TC)</h2>\nThe headline figure — everything added together. Irish guidance generally recommends keeping total cholesterol below 5.0 mmol/L, but the breakdown matters far more than the total alone.\n<h2>LDL: The One to Keep Low</h2>\nLow-density lipoprotein carries cholesterol into artery walls, where it drives plaque formation. For most healthy adults the target is below 3.0 mmol/L; people with existing heart disease or diabetes are usually advised to aim lower.\n<h2>HDL: The Protective One</h2>\nHigh-density lipoprotein transports cholesterol away from arteries back to the liver. Higher is generally better — above 1.0 mmol/L for men and 1.2 mmol/L for women. Regular exercise is the most reliable way to raise it.\n<h2>Triglycerides</h2>\nTriglycerides are circulating fats influenced strongly by diet, alcohol, and body weight. A fasting level below 1.7 mmol/L is ideal. Elevated triglycerides often respond quickly to cutting sugar and alcohol.\n<h2>Why the Ratio Matters</h2>\nThe TC:HDL ratio is often the best single indicator on the report. Below 4.5 is the usual goal — a person with moderately high total cholesterol but excellent HDL can be at lower risk than someone with a \"normal\" total and poor HDL.\n<h2>Testing From Home</h2>\nOur Cholesterol Profile Test Kit measures all four markers from a finger-prick sample, with results reviewed by an IMC-registered doctor. For the most accurate triglyceride reading, collect your sample after a 10-12 hour overnight fast.\n<h3>Final Thoughts</h3>\nCholesterol changes slowly and silently — most people feel nothing at all until damage is done. An annual check, whether at home or with your GP, is one of the simplest investments you can make in long-term heart health.",
+          "featuredImage": "/images/kits-1.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "cholesterol", "name": "Cholesterol" },
+            { "slug": "heart-health", "name": "Heart Health" }
+          ]
+        },
+        {
+          "id": 90005,
+          "title": "Thyroid Testing at Home: What TSH, T3 and T4 Tell You",
+          "slug": "thyroid-testing-at-home-tsh-t3-t4",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/thyroid-testing-at-home-tsh-t3-t4/",
+          "date": "2026-03-05 11:30:00",
+          "modified": "2026-03-07 08:15:00",
+          "pubDate": "Thu, 05 Mar 2026 11:30:00 +0000",
+          "author": "Dr. Priya Sharma",
+          "excerpt": "The thyroid is a small gland with an outsized influence on energy, weight, mood and metabolism. Thyroid disorders affect women five to eight times more often than men, and many cases go undiagnosed for years. Here is what a home thyroid panel measures…",
+          "content": "The thyroid is a small, butterfly-shaped gland in your neck with an outsized influence on energy, weight, mood, and metabolism. Thyroid disorders affect women five to eight times more often than men, and because symptoms build gradually, many cases go undiagnosed for years.\n<h2>The Three Key Markers</h2>\n<ul>\n \t<li><strong>TSH (Thyroid Stimulating Hormone)</strong> — the pituitary gland's instruction signal to the thyroid. High TSH suggests an underactive thyroid working against resistance; low TSH suggests an overactive one.</li>\n \t<li><strong>Free T4 (Thyroxine)</strong> — the main hormone the thyroid produces. Combined with TSH, it distinguishes full hypothyroidism from early, subclinical changes.</li>\n \t<li><strong>Free T3 (Triiodothyronine)</strong> — the active form of thyroid hormone that your cells actually use. Most helpful when investigating an overactive thyroid.</li>\n</ul>\n<h2>Signs of an Underactive Thyroid</h2>\nTiredness, unexplained weight gain, feeling cold when others don't, dry skin, thinning hair, constipation, low mood, and brain fog. Hypothyroidism is the more common pattern in Ireland, particularly in women over 40.\n<h2>Signs of an Overactive Thyroid</h2>\nAnxiety and restlessness, unexplained weight loss, a racing heart, heat intolerance, tremor, and disturbed sleep. Overactivity is less common but needs prompt medical follow-up.\n<h2>How Home Testing Works</h2>\nOur Thyroid Function Test Kit measures TSH, FT4 and FT3 from a single finger-prick sample. Collect in the morning before taking any thyroid medication, post the same day, and a doctor-reviewed report arrives in your secure account within days.\n<h2>What Happens After an Abnormal Result?</h2>\nAn abnormal screening result is a signal, not a diagnosis. The reviewing doctor will explain your pattern and recommend next steps — usually confirmatory testing through your GP, who can also check thyroid antibodies to identify autoimmune causes like Hashimoto's disease.\n<h3>Final Thoughts</h3>\nIf you have been treating persistent tiredness, weight change, or low mood as just life, a thyroid panel is one of the most informative tests you can run — and one of the easiest to do from home.",
+          "featuredImage": "/images/photo-kits4.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "thyroid", "name": "Thyroid" },
+            { "slug": "hormones", "name": "Hormones" },
+            { "slug": "womens-health", "name": "Women's Health" }
+          ]
+        },
+        {
+          "id": 90006,
+          "title": "STI Testing From Home: Private, Accurate, and Judgement-Free",
+          "slug": "sti-testing-from-home-private-and-accurate",
+          "link": "https://nexgenhealthcare.ie/blood-testing-blogs/sti-testing-from-home-private-and-accurate/",
+          "date": "2026-02-20 10:45:00",
+          "modified": "2026-02-21 16:00:00",
+          "pubDate": "Fri, 20 Feb 2026 10:45:00 +0000",
+          "author": "NexGen Health Team",
+          "excerpt": "Most sexually transmitted infections cause no symptoms at all — which is why regular screening matters, and why at-home testing has become the preferred option for so many people in Ireland. Here is how discreet home STI testing works…",
+          "content": "Most sexually transmitted infections cause no symptoms at all, which means the only way to know your status is to test. At-home STI testing has become the preferred option for many people in Ireland precisely because it removes the two biggest barriers: embarrassment and inconvenience.\n<h2>Why Regular Screening Matters</h2>\nChlamydia — Ireland's most common bacterial STI — is symptomless in the majority of cases, yet untreated it can cause serious complications including infertility. Gonorrhoea notifications have risen sharply in recent years. Both are easily detected and easily treated once identified.\n<h2>How Home STI Testing Works</h2>\n<ul>\n \t<li><strong>Order online</strong> — your kit arrives in plain, unbranded packaging with nothing to indicate the contents.</li>\n \t<li><strong>Collect your sample</strong> — depending on the test, a urine sample or a small finger-prick blood sample, taking a few minutes in total.</li>\n \t<li><strong>Post it back</strong> — using the prepaid tracked envelope, to an INAB-accredited laboratory.</li>\n \t<li><strong>Get doctor-reviewed results</strong> — delivered to your secure account, usually within 1-3 days of the lab receiving your sample.</li>\n</ul>\n<h2>When to Test</h2>\nEvery infection has a window period between exposure and reliable detection: roughly two weeks for chlamydia and gonorrhoea, and around six weeks for a 4th-generation HIV test. Testing too early can miss an infection, so if you had a recent risk event, note the date and time your test accordingly.\n<h2>What Happens if a Result Is Positive?</h2>\nA positive screening result is confidential and manageable. Our clinical team explains exactly what the result means and connects you with treatment pathways — most bacterial STIs are cured with a short course of antibiotics through your GP or a sexual health clinic.\n<h2>Your Privacy</h2>\nSTI results are special category health data. They are encrypted, visible only to you and the reviewing clinician, and never shared with anyone else — not partners, not employers, not insurers.\n<h3>Final Thoughts</h3>\nRegular STI screening is simply part of looking after yourself, no different from checking cholesterol or vitamin levels. Our complete screen and single-infection kits make it private, accurate, and judgement-free.",
+          "featuredImage": "/images/photo-kits1.jpg",
+          "categories": [
+            {
+              "slug": "blood-testing-blogs",
+              "name": "Blood Testing Blogs"
+            }
+          ],
+          "tags": [
+            { "slug": "sexual-health", "name": "Sexual Health" },
+            { "slug": "sti-testing", "name": "STI Testing" }
+          ]
+        }
+      ]
+    }
+  ]
+}
