@@ -169,7 +169,7 @@ const KitCard = ({ kit, onQuickView }: KitCardProps) => {
                         <div className="grid grid-cols-2 gap-2">
                             <Link
                                 href={kitHref}
-                                className="flex items-center justify-center h-10 px-2 bg-white border border-(--maincolor) text-(--maincolor) text-[11px] font-bold rounded-xl hover:bg-slate-50 transition-all uppercase"
+                                className="flex items-center justify-center h-10 px-2 bg-white border border-(--maincolor) text-(--maincolor) text-[11px] font-bold hover:bg-slate-50 transition-all uppercase"
                             >
                                 View Details
                             </Link>
@@ -188,7 +188,7 @@ const KitCard = ({ kit, onQuickView }: KitCardProps) => {
                                     });
                                     router.push('/cart');
                                 }}
-                                className="flex items-center justify-center gap-1.5 h-10 px-2 bg-(--btncolor) text-white text-[11px] font-bold rounded-xl hover:opacity-95 transition-all uppercase shadow-lg shadow-(--btncolor)/10"
+                                className="flex items-center justify-center gap-1.5 h-10 px-2 bg-(--btncolor) text-white text-[11px] font-bold hover:opacity-95 transition-all uppercase shadow-lg shadow-(--btncolor)/10"
                             >
                                 <ShoppingCart size={13} />
                                 Order Kit
